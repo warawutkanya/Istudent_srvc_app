@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "157379637512",
+    "project_id": "flutter-firebase-srvc",
+    "storage_bucket": "flutter-firebase-srvc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157379637512:android:8d459f1615fcf22b8c3cbd",
+        "android_client_info": {
+          "package_name": "com.example.iteachers_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRhbtXDRYuCtiM3fP6la_a2obpBikDKSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
